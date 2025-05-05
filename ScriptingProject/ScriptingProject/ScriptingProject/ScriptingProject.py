@@ -1,4 +1,5 @@
 ﻿import requests
+from datetime import datetime
 
 #list of crafting methods with required levels
 crafting_methods = [
